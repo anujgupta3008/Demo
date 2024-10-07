@@ -1,2 +1,3 @@
 # Demo
-This is my first Git Repo
+This is my first Git Repository.
+Author-Anuj Gupta
